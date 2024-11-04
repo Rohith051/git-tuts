@@ -1,1 +1,0 @@
-print("rohith + entri course")
