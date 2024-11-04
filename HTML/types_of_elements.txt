@@ -1,0 +1,33 @@
+types of elemnts-
+1) block elements
+ --> these elemente always start on new line
+--> occupues the entire width.
+-->top and bottom margins exist
+
+examples:
+-div
+-p
+-h1-h6
+-ul
+-li
+-blockquote
+-dd
+-dt
+-dl
+-tfoot
+-address
+-pre
+
+2) inline elements
+ --> these elemnts continue on same line.
+-->these take as much as width is required
+--> top and bottom do not exist
+
+examples:
+-span
+-b
+-abbr
+-sup
+-i
+-q
+
