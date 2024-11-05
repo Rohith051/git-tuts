@@ -1,0 +1,23 @@
+descendent selector
+
+div h1{           if we desendent selector in the    div all h1 will have same style
+    prop:val;      
+}
+
+child selector
+div>p{
+    prop:val;    if <div><p></p></div>
+}
+
+adjacent sibling selector
+p+h1{
+    prop: val;      <p><h1></h1></p>
+}
+
+general sibling selector
+p-h1{
+    prop:val;
+    <p>
+    <h1>
+
+}
