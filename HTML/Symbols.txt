@@ -1,0 +1,33 @@
+for all-&forall
+partial differenctial-&part
+there exists-&exist;
+elements of- &isin
+sigma- &sum
+
+name-&name
+number-#number
+
+alpha-&alpha
+beta-&beta
+gamma-&gamma
+delta-&delta
+epsilon-&epsilon
+zeta-&zeta
+spades-&spades
+clubs-&clubs
+hearts-&hearts
+daimonds-&daimonds
+
+Indian rupee sign- &#8377
+bitcon-&#8383
+euro-&#8352
+
+left pointing arrow- &larr -&#8592
+right pointing arrow -&rarr-
+hollow double pointed arrow-&#8703
+
+maths firstt- for all-&#8704
+maths last- motation membership- &#8959
+
+greek first- heta- &#880
+greek lasr- reversed dotted lunate sigma -&#1023
