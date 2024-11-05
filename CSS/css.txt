@@ -2,3 +2,18 @@ CSS- Cascading style sheets
 where to write CSS code-
 --> in the html file
 --> outside the html file
+
+Syntax
+==========================
+
+    selector{
+        property1: value1;
+        property2: value2;
+        property3: value3;
+    }
+==========================
+
+There are 3 types of possible CSS placements-
+1. In the same file/ Internal CSS
+2. In the other file/ external CSS
+3. within the element/ Inline CSS
