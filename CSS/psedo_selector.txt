@@ -1,0 +1,29 @@
+input:checked;{
+    prop:val;    checkbox in html 
+}
+
+div:empty{
+    prop:val;
+}
+ 
+ div:hover{
+    prop:val;
+ }
+
+ a:hover{
+    prop:val;
+ }
+
+ a:visited{
+    prop:val;
+
+ }
+
+ p:first-child{
+    prop:val;
+ }
+
+ p:last-child{
+    prop:val;
+ }
+ 
