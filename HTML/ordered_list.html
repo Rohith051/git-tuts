@@ -4,15 +4,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ordered list</title>
+    <style>
+        li{
+            border: 3px solid blue;
+
+        }
+        .unordered1{
+            list-style-type: circle;
+           /* list-style-image: url(123.jpeg);*/
+          /* padding: 50px;*/
+          margin: 0;
+          border: 5px ridge red;
+          list-style-position: outside;
+
+
+        }
+        .ordered{
+            list-style-type: upper-roman;
+        }
+    </style>
 </head>
 <body>
     <h2> ordered list</h2>
-    <ol>
+    <ol class="ordered">
         <li>rohith</li>
         <li>mahipal</li>
         <li>nithin</li>
         <li>naveen</li>
         <li>anil</li>
     </ol>
+    <h2> Unordred listing</h2>
+    <ul class="unordered1">
+        <li>hyderabad</li>
+        <li>warangal</li>
+        <li>rajamundry</li>
+        <li>nizambad</li>
+        <li>kamareddy</li>
+    </ul>
 </body>
 </html>
