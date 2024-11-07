@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>table captions</title>
+   <style>
+    table,th,td{
+        border: 3px solid red;
+    }
+    table{
+        width: 400px;
+        border-collapse: collapse;
+    }
+    th{
+        padding: 10px;
+        color: blue;
+        background-color: rgb(255, 196, 196);
+    }
+    td{
+        text-align: center;
+        color: yellowgreen;
+    }
+    .name{
+        text-transform: uppercase;
+        font-style: italic;
+    }
+    .bg-change{
+        background-color: aquamarine;
+
+    }
+   </style>
+</head>
+<body>
+   <table>
+       <caption>Marks of Students</caption>
+       <tr>
+           <th>NAME</th>
+           <th>ROLL NO.</th>
+           <th>MARKS</th>
+           <th>ph.no</th>
+       </tr>
+       <tr class="bg-change">
+           <td class="name">xyz</td>
+           <td >12</td>
+           <td>550</td>
+           <td>7676767676</td>
+       </tr>
+       <tr >
+        <td class="name">xyz</td>
+        <td >12</td>
+        <td>550</td>
+        <td>7676767676</td>
+    </tr>
+       <tr class="bg-change">
+           <td class="name">abc</td>
+           <td>14</td>
+           <td>590</td>
+           <td>9898989898</td>
+       </tr>
+       <tr >
+        <td class="name">abc</td>
+        <td>14</td>
+        <td>590</td>
+        <td>9898989898</td>
+    </tr>
+       <caption>Marks of Students</caption>
+   </table>
+   
+</body>
+</html>
