@@ -1,0 +1,12 @@
+styling?-
+
+1.inline styling
+2.classes,ids styling
+3.elements
+
+
+ Priaority Order for if all this in file:
+inline
+ids
+classes
+elements
